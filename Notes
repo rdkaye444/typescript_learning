@@ -1,0 +1,4 @@
+npx ts-node helloworld.ts    # Run a file at the command line using typescript
+
+WTF is npx?
+
